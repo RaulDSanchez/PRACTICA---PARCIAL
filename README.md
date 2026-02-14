@@ -5,10 +5,6 @@
 - [Nombre 2]
 - Raúl Daniel Sánchez Sánchez
 
-## Descripción
-
-Proyecto grupal para el primer parcial.
-
 ## Ejercicios
 
 ### 1. Sintaxis Básica y Variables
