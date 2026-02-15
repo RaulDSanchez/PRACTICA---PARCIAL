@@ -1,9 +1,9 @@
 # PRACTICA - PARCIAL
 
 ## Integrantes
-- [Nombre 1]
-- [Nombre 2]
-- Raúl Daniel Sánchez Sánchez
+- Esmeralda Tais Soto Escolastico  | 2024-1861
+- Jordi Alexander Novas Franco     | 2023-1205
+- Raúl Daniel Sánchez Sánchez      | 2024-1755
 
 ## Ejercicios
 
